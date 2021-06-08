@@ -1,0 +1,27 @@
+.div{
+    list-style: none;
+    line-height: 2rem;
+    display: flex;
+    align-items: center;
+}
+.li{
+    padding: 5px;
+}
+.li:hover{
+    cursor: pointer;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    padding:20px;
+     font-size: 1rem;
+}
+h5:hover{
+    border: 2px solid orange;
+    cursor: pointer;
+    border-radius: 20px;
+}
